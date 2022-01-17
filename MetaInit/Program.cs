@@ -1,15 +1,16 @@
 ﻿using System;
-using ParallelProgramming;
+using System.Collections.Generic;
+using System.Threading;
+using Async;
 
 namespace MetaInit
 {
     class Program
+    {
+        static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
-                ContinuationTasks tasks = new();
-                tasks.ChainsTasks();
-                Console.ReadLine();
-            }
+            AsyncStreams.GetData();
+            Console.Read();
         }
+    }
 }
