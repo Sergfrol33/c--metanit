@@ -7,7 +7,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            MainLINQ.WorkWithMultipleSources();
+           
             Console.Read();
         }
     }
