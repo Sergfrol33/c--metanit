@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jp+xqg/1k5fI/mbW3y6ElIkIkJt0G7T5DGSSeccUj/imtpoNm7u8OnbbHgcmMn7dA1d4Dw+xBAv6WT35ddAnUw==",
+  "dgSpecHash": "Bn3TrPdarE4U1jzvrHOixIP633GgIzGIDDorLlTWC1HsK9HZtWXIdxDzrkpQeZxZPcfacLDdY4/R0FSNvweOXw==",
   "success": true,
-  "projectFilePath": "C:\\projects\\metainit-c#\\MetaInit\\MetaInit\\MetaInit.csproj",
+  "projectFilePath": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

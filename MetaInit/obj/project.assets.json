@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\blew_sweet\\.nuget\\packages\\": {}
+    "C:\\Users\\Sergey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\metainit-c#\\MetaInit\\MetaInit\\MetaInit.csproj",
+      "projectUniqueName": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
       "projectName": "MetaInit",
-      "projectPath": "C:\\projects\\metainit-c#\\MetaInit\\MetaInit\\MetaInit.csproj",
-      "packagesPath": "C:\\Users\\blew_sweet\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\metainit-c#\\MetaInit\\MetaInit\\obj\\",
+      "projectPath": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
+      "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\c-sharp-metanit\\MetaInit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\blew_sweet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\blew_sweet\\.dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

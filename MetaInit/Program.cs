@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
-using Async;
+﻿
+using LINQ;
 
 namespace MetaInit
 {
@@ -9,7 +7,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            AsyncStreams.GetData();
+            MainLINQ.ComplexFilter();
             Console.Read();
         }
     }
