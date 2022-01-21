@@ -7,7 +7,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-           
+            Deletegates.Delegate();
             Console.Read();
         }
     }
