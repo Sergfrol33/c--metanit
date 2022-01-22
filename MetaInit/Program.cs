@@ -1,5 +1,4 @@
-﻿using System;
-using LINQ;
+﻿using Reflection;
 
 namespace MetaInit
 {
@@ -7,7 +6,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            Deletegates.Delegate();
+            Attributes.Validate();
             Console.Read();
         }
     }
