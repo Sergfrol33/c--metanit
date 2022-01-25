@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+rzBNGngPUUG5J73Mxb8wP938poiQtmngwqtiUXDZHJokH+GkAco65DB/Rnu6yezZEXtfHqjZ59sLmPnNXo4Pw==",
+  "dgSpecHash": "otgIPa7Hsi3jcMUQjVzMHiZD3rJB5w9hzfiDkYR45mNe9umHiZVk63o+QSH1f7OESe5BjD3yo1hceiO4kJjXKQ==",
   "success": true,
-  "projectFilePath": "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
+  "projectFilePath": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

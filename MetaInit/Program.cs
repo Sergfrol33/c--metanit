@@ -1,12 +1,11 @@
-﻿using Reflection;
-
+﻿using Garbage;
 namespace MetaInit
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Attributes.Validate();
+            UnsafeCode.TakeAnotherAddress();
             Console.Read();
         }
     }
