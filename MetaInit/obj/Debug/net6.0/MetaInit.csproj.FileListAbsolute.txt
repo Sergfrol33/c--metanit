@@ -13,18 +13,18 @@ C:\projects\metainit-c#\MetaInit\MetaInit\obj\Debug\net6.0\MetaInit.dll
 C:\projects\metainit-c#\MetaInit\MetaInit\obj\Debug\net6.0\ref\MetaInit.dll
 C:\projects\metainit-c#\MetaInit\MetaInit\obj\Debug\net6.0\MetaInit.pdb
 C:\projects\metainit-c#\MetaInit\MetaInit\obj\Debug\net6.0\MetaInit.genruntimeconfig.cache
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.exe
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.deps.json
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.runtimeconfig.json
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.dll
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\ref\MetaInit.dll
-C:\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.pdb
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.csproj.AssemblyReference.cache
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.GeneratedMSBuildEditorConfig.editorconfig
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.AssemblyInfoInputs.cache
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.AssemblyInfo.cs
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.csproj.CoreCompileInputs.cache
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.dll
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\ref\MetaInit.dll
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.pdb
-C:\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.genruntimeconfig.cache
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.exe
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.deps.json
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.runtimeconfig.json
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.dll
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\ref\MetaInit.dll
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\bin\Debug\net6.0\MetaInit.pdb
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.csproj.AssemblyReference.cache
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.AssemblyInfo.cs
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.dll
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\ref\MetaInit.dll
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.pdb
+D:\JetBrains Rider 2021.3.1\projects\c-sharp-metanit\MetaInit\obj\Debug\net6.0\MetaInit.genruntimeconfig.cache

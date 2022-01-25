@@ -1,4 +1,4 @@
-﻿using ParallelLinq;
+﻿using Reflection;
 
 namespace MetaInit
 {
@@ -6,7 +6,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            AsParallel.AsOrdered();
+            Attributes.Validate();
             Console.Read();
         }
     }
