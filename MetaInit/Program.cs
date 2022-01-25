@@ -1,5 +1,4 @@
-﻿
-using LINQ;
+﻿using ParallelLinq;
 
 namespace MetaInit
 {
@@ -7,7 +6,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            MainLINQ.ComplexFilter();
+            AsParallel.AsOrdered();
             Console.Read();
         }
     }

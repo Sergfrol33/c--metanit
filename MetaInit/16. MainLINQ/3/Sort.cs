@@ -1,5 +1,4 @@
-﻿
-namespace LINQ
+﻿namespace LINQ
 {
     public class Sort
     {
