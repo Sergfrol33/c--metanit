@@ -1,11 +1,15 @@
-﻿using Garbage;
+﻿using FileSystem;
+using Garbage;
+
+
 namespace MetaInit
 {
-    class Program
+    class Program    
     {
         static void Main(string[] args)
         {
-            UnsafeCode.TakeAnotherAddress();
+            FileSystem.File file = new( @"C:\apache\hta.txt");
+            file.DeleteFile();
             Console.Read();
         }
     }
