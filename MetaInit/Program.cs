@@ -8,8 +8,8 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            FileSystem.File file = new( @"C:\apache\hta.txt");
-            file.DeleteFile();
+            var fileStreaming = new FileStreaming();
+            fileStreaming.Seek();
             Console.Read();
         }
     }

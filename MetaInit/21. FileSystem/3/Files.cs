@@ -36,6 +36,16 @@
             var fileInf = new FileInfo(_path);
             fileInf.MoveTo(newPath); 
         }
- 
+
+        public void CopyFile()
+        {
+            var path = @"C:\apache\hta.txt";
+            var newPath = @"C:\SomeDir\hta.txt";
+            FileInfo fileInf = new FileInfo(path);
+            if (fileInf.Exists)
+            {
+                fileInf.CopyTo(newPath, true);
+            }
+        }
     }
 }
