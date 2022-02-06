@@ -8,4 +8,8 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="23. XMLWork\1" />
+    </ItemGroup>
+
 </Project>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj": {}
+    "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj": {}
   },
   "projects": {
-    "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj": {
+    "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
+        "projectUniqueName": "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
         "projectName": "MetaInit",
-        "projectPath": "C:\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
-        "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\c-sharp-metanit\\MetaInit\\obj\\",
+        "projectPath": "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\MetaInit.csproj",
+        "packagesPath": "C:\\Users\\frol\\.nuget\\packages\\",
+        "outputPath": "D:\\JetBrains Rider 2021.3.1\\projects\\c-sharp-metanit\\MetaInit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\frol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\frol\\.dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

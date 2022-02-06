@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57c417c9-7194-41be-8ded-434201279319" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MetaInit/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/MetaInit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/MetaInit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/MetaInit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/MetaInit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/ref/MetaInit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/bin/Debug/net6.0/ref/MetaInit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/MetaInit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/ref/MetaInit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/Debug/net6.0/ref/MetaInit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/MetaInit.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/MetaInit.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/MetaInit.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/MetaInit.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetaInit/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MetaInit/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24jYOTubp0orQLD2CDYRGmGtdel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57c417c9-7194-41be-8ded-434201279319" name="Changes" comment="" />
+      <created>1644145441454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644145441454</updated>
+      <workItem from="1644145450842" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,5 +1,6 @@
 ﻿using FileSystem;
 using Garbage;
+using JSONSerializer;
 
 
 namespace MetaInit
@@ -8,8 +9,7 @@ namespace MetaInit
     {
         static void Main(string[] args)
         {
-            var fileStreaming = new FileStreaming();
-            fileStreaming.Seek();
+            Serializer.ReadAndWriteAsync();
             Console.Read();
         }
     }
